@@ -8,7 +8,7 @@ I will code in **R** and I have R in **bold**
 
 2. Second item on the same list
 
-..* This is a sub-list of the list, aka a bullet point
+  * This is a sub-list of the list, aka a bullet point
 
 This is [google](https://www.google.com)
 
