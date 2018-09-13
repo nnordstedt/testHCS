@@ -1,9 +1,13 @@
 # My first wiki
 
 This is my first *code* and it has *italics*
+
 I will code in **R** and I have R in **bold**
+
 1. First item on the list
+
 2. Second item on the same list
+
 ..* This is a sub-list of the list, aka a bullet point
 
 This is [google](https://www.google.com)
